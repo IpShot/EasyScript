@@ -1,0 +1,10 @@
+{
+  "name": "EasyScript",
+  "version": "1.0.0",
+  "description": "The fastest way to build up and run your script",
+  "author": "Roman Zhernosek <zhernosek.roman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.1.13"
+  }
+}
