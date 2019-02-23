@@ -1,7 +1,7 @@
 # EasyScript
 
-The easiest way to create and run your node.js scripts.
-No preparations required.
+Fast and easy way to create and run your node.js scripts.\
+No preparations and `npm install moduleName`. All missed modules will be installed automatically.
 
 ### How to use
 
