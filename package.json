@@ -2,9 +2,21 @@
   "name": "EasyScript",
   "version": "1.0.0",
   "description": "The fastest way to build up and run your script",
+  "repository": "https://github.com/IpShot/EasyScript",
   "author": "Roman Zhernosek <zhernosek.roman@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "mongodb": "^3.1.13"
+  "scripts": {
+    "build": "babel lib/build.js | node",
+    "helloworld": "babel lib/install.js | EASYSCRIPT=helloworld node && { babel lib/index.js && babel scripts/helloworld.js; } | EASYSCRIPT=helloworld node"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.3",
+    "@babel/polyfill": "^7.2.5",
+    "@babel/preset-env": "^7.3.1",
+    "find-imports": "^1.1.0",
+    "jsonfile": "^5.0.0",
+    "read-package-json": "^2.0.13",
+    "shelljs": "^0.8.3"
   }
 }
