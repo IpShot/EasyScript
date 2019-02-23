@@ -11,7 +11,7 @@ cd ./EasyScript
 npm install
 ```
 
-Add your script file to `scripts` folder.
+Add your script file to `scripts` folder.\
 Next command adds run names for scripts from `scripts` folder to `package.json`:
 ```
 npm run build
