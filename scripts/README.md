@@ -1,1 +1,1 @@
-## Add your js scripts here
+## Add your .js scripts to this folder
