@@ -25,7 +25,7 @@ You don't need to call build command after file changes. You have to do that onl
 
 After build you can run your scripts as:
 ```
-npm run your_script_file_name
+npm run your_script_file_name (without extension)
 ```
 You don't need to install any packages you used in the script. It will be installed automatically.
 
