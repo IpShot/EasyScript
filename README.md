@@ -21,9 +21,9 @@ After new files added you have to run:
 ```
 npm run build
 ```
-You don't need to call build command after file changes. You have to do that only if new files added to `scripts` folder.
+You don't need to call build command after file changed. You have to do that only if new file added to `scripts` folder.
 
-After build you can run your scripts as:
+After build you can run your script as:
 ```
 npm run your_script_file_name (without extension)
 ```
