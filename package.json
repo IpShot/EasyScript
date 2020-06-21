@@ -5,6 +5,27 @@
   "repository": "https://github.com/IpShot/EasyScript",
   "author": "Roman Zhernosek <zhernosek.roman@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "node",
+    "nodejs",
+    "script",
+    "easy",
+    "fast,
+    "run",
+    "js",
+    "create",
+    "run js script",
+    "run js script fast",
+    "run js scripts",
+    "run js scripts fast",
+    "easy run js",
+    "easy run js script",
+    "easy run js scripts",
+    "easy way to run js script",
+    "easy way to run js scripts",
+    "fast and easy run js script",
+    "fast and easy run js scripts"
+  ],
   "scripts": {
     "build": "babel lib/build.js | node",
     "helloworld": "babel lib/install.js | EASYSCRIPT=helloworld node && { babel lib/index.js && babel scripts/helloworld.js; } | EASYSCRIPT=helloworld node"
