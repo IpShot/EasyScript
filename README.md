@@ -17,13 +17,13 @@ npm install
 ```
 
 Add your script file to `scripts` folder.\
-After new files added you have to run:
+After a new script file added you have to run:
 ```
 npm run build
 ```
-You don't need to call build command after file changed. You have to do that only if new file added to `scripts` folder.
+You don't need to call the build command after a script change. You have to do that only if a new file added to `scripts` folder.
 
-After build you can run your script as:
+After build you can run your scripts as:
 ```
 npm run your_script_file_name (without extension)
 ```
