@@ -1,9 +1,13 @@
 # EasyScript
 
-Fast and easy way to create and run your node.js scripts.
+Fast and simple way to create and run your node.js scripts.
+
+### Problem
+
+Sometimes you need to create a script for a one-time task. For example you have to fetch all emails from database, filter and structure them in a required way, then write them to a txt file. If you don't want to spend time for configuring npm project from scratch this tool for you.
 
 ### Benefits
-* No any preparations.
+* No any configurations.
 * No need to install used packages, they will be installed automatically.
 * ES6 is set up.
 * Everything ready. Just write your script and run.
