@@ -4,9 +4,9 @@ Fast and easy way to create and run your node.js scripts.
 
 ### Benefits
 * No any preparations.
-* No need to install imported packages, they will be installed automatically.
+* No need to install used packages, they will be installed automatically.
 * ES6 is set up.
-* Everything ready. Just start writing your script.
+* Everything ready. Just write your script and run.
 
 ## How to use
 
