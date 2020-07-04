@@ -1,6 +1,6 @@
 # EasyScript
 
-Fast and simple way to create and run your ES6 scripts in NodeJS.
+Quick, simple way to create and run your ES6 scripts in NodeJS.
 
 ### Problem
 
