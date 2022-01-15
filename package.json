@@ -29,7 +29,7 @@
     "find-imports": "^1.1.0",
     "jsonfile": "^5.0.0",
     "read-package-json": "^2.0.13",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   },
   "dependencies": {
     "csv-parser": "^2.3.3"
